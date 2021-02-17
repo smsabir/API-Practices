@@ -4,6 +4,15 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
 }
+#countryDetails{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+#countryDetails img{
+    width: 200px;
+}
 .country{
 
     padding: 20px;
