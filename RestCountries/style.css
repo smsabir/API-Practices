@@ -1,0 +1,12 @@
+#container div{
+    float: left;
+    padding: 15px;
+    border: 1px solid gray;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: lightcoral;
+    font-family: 'Lucida Sans', sans-serif;
+}
+#container div:hover{
+    background-color: teal;
+}
